@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 18 10:45:12 2019
 
-@author: Kz
+@author: Kazem Gheysari
 """
 
 import bs4
